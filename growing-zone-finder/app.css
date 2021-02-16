@@ -1,0 +1,17 @@
+#zone-finder {
+    max-width: 450px;
+    border: thin #ddd solid;
+    border-radius: 5px;
+}
+
+#zone-finder #results-container {
+    min-height: 100px;
+}
+
+#zone-finder img {
+    width: 35%;
+    min-width: 150px;
+    margin-bottom: 20px;
+    display: inline-block;
+}
+
